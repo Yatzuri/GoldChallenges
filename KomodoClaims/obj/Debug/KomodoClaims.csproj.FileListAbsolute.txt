@@ -1,0 +1,7 @@
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\bin\Debug\KomodoClaims.exe.config
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\bin\Debug\KomodoClaims.exe
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\bin\Debug\KomodoClaims.pdb
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\obj\Debug\KomodoClaims.csproj.CoreCompileInputs.cache
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\obj\Debug\KomodoClaims.exe
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\obj\Debug\KomodoClaims.pdb
+C:\Users\yatzu\source\repos\GoldChallanges\KomodoClaims\obj\Debug\KomodoClaims.csprojAssemblyReference.cache

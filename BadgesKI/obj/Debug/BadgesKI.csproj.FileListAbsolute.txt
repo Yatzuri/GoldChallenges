@@ -1,0 +1,7 @@
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\bin\Debug\BadgesKI.exe.config
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\bin\Debug\BadgesKI.exe
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\bin\Debug\BadgesKI.pdb
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\obj\Debug\BadgesKI.csprojAssemblyReference.cache
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\obj\Debug\BadgesKI.csproj.CoreCompileInputs.cache
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\obj\Debug\BadgesKI.exe
+C:\Users\yatzu\source\repos\GoldChallanges\BadgesKI\obj\Debug\BadgesKI.pdb
